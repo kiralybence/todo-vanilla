@@ -1,0 +1,35 @@
+#container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+hr {
+    margin-bottom: 20px;
+}
+
+#newItemInputContainer {
+    margin-bottom: 30px;
+}
+
+#newItemInput {
+    width: 100%;
+    resize: none;
+}
+
+#addItemButton {
+    padding: 10px 50px;
+}
+
+.item {
+    cursor: pointer;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+}
